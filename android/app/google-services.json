@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308721883604",
+    "project_id": "cap-myapp4",
+    "storage_bucket": "cap-myapp4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308721883604:android:4b9ad09a18e1a463a55e41",
+        "android_client_info": {
+          "package_name": "com.example.myapp4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308721883604-jvj20q01ip4ne76hlin6ajfhjfv8cch2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFJcClnkNJyB-YKapUe62iRnmWh4SJfm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308721883604-jvj20q01ip4ne76hlin6ajfhjfv8cch2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
